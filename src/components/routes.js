@@ -9,7 +9,7 @@ const routes = [
   },
   {
     id: 2,
-    path: '/CoinStats',
+    path: '/CoinStats/:coinId',
     element: <CoinStats />,
   },
 ];
