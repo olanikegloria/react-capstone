@@ -1,0 +1,185 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  background-color: #d04c73;
+  color: white;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.card-img {
+  width: 5rem;
+}
+
+.even {
+  background-color: #a23b5a;
+}
+
+.odd {
+  background-color: #8b324d;
+}
+
+.card-top {
+  background-color: #d04c73;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem;
+}
+
+.card-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+/* .search-bar {
+  width: 100%;
+  background-color: #8b324d;
+  outline: none;
+  border: 1px solid pink;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.search-bar::placeholder {
+  color: white;
+  font-size: 1.5rem;
+} */
+
+.top-img {
+  width: 100%;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  background-color: #8b324d;
+  justify-content: space-between;
+  font-size: 1.5rem;
+  padding: 2rem;
+}
+
+.navigation-left {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-content: center;
+}
+
+.less-than {
+  font-size: 1rem;
+  padding-right: 4px;
+}
+
+.coin-details {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 2rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.coinstats-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.stats {
+  padding: 2rem 1rem;
+}
+
+.coin-supply {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 2rem;
+}
+
+.upper-left {
+  align-self: flex-start;
+  justify-self: flex-start;
+  padding: 10px;
+}
+
+.lower-right {
+  align-self: flex-end;
+  justify-self: flex-end;
+  padding: 10px;
+}
+
+.input-container {
+  position: relative;
+  display: inline-block;
+  margin: 20px;
+}
+
+.custom-input {
+  width: 300px;
+  height: 40px;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 20px;
+  background-color: #8b324d;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s, box-shadow 0.3s;
+  color: #333;
+}
+
+.custom-input::placeholder {
+  color: #999;
+}
+
+.custom-input:focus {
+  background-color: #fff;
+  outline: none;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.mic-set {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.settings {
+  padding-left: 13px;
+  font-size: 2.5rem;
+}
+
+.card-info h4 {
+  padding: 0.5rem;
+}
+
+.mic {
+  padding-right: 10px;
+}
+
+.nav-center {
+  font-size: 1.2rem;
+}
