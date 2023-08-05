@@ -125,7 +125,7 @@ To run tests, run the following command:
 
 ## 👥 Author <a name="author"></a>
 
-👤 **ROBERT MIGOT**
+👤 **OLANIKE OLATUNJI**
 
 - GitHub: [@olanikegloria](https://github.com/olanikegloria)
 - LinkedIn: [Olanike Olatunji](https://www.linkedin.com/in/olani/)
