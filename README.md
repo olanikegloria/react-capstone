@@ -19,7 +19,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -67,7 +66,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://dev--marvelous-mandazi-c7fe36.netlify.app/)
 - [video walkthrough Link](https://www.loom.com/share/9171a1696e5543149f01e9e7d2eb6996?sid=ffc9757e-1ae9-4dfa-8b6d-b0c3c0857760)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
