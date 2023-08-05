@@ -26,6 +26,7 @@
     - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
+     - [Highlights](#highlights)
   - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -118,6 +119,10 @@ To run tests, run the following command:
 - to test JavaScript linter errors  `npx eslint .`
 
 - to run the jest tests `npx test`
+
+**Highlight**
+- My highlight for this app I have created is that I love the user interface
+- also the fact that I implemented a search bar
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
