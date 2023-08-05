@@ -15,8 +15,8 @@ function Coin({ coin, index }) {
   }
   const roundedPrice = Math.round(coin.price);
   return (
-    <Link to={`/CoinStats/${coin.uuid}`} className={` link ${bgColor}`}>
-      <div className="card-items">
+    <Link to={`/CoinStats/${coin.uuid}`} className={`link ${bgColor}`}>
+      <div data-testid="coin-card" className="card-items">
         <div className="img-container upper-left">
           <img alt="coin.png" src={coin.iconUrl} className="card-img" />
         </div>

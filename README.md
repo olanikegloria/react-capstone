@@ -15,7 +15,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 NBA-TEAMS-STATS ](#-NBA-TEAMS-STATS-)
+- [📖 CryptoNike ](#CryptoNike)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -35,9 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 NBA-TEAMS-STATS <a name="about-project"></a>
+# 📖 CryptoNike <a name="about-project"></a>
 
-**NBA-TEAMS-STATS** Is a website that provides users with the standing of NBA teams with their latest statistics accumulated during the 2019-2020 season
+**CryptoNike** Is a website that provides users with the standing of Crypto currencies with their latest statistics accumulated during the 2019-2020 season
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -58,8 +58,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **List of NBA Teams with current conerence position**
-- **Statistics of each NBA team** 
+- **List of coins with current market cap**
+- **Statistics of each coin** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,7 +68,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://dev--marvelous-mandazi-c7fe36.netlify.app/)
-- [video walkthrough Link](https://www.loom.com/share/4beb30d314f14e29a50857ff0459ef74?sid=bda31e3d-a60e-43ac-a9de-fac906324096)
+- [video walkthrough Link](https://www.loom.com/share/9171a1696e5543149f01e9e7d2eb6996?sid=ffc9757e-1ae9-4dfa-8b6d-b0c3c0857760)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,12 +93,12 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/migo1/nba-teams-stats.git
+  git clone https://github.com/olanikegloria/CryptoNike.git
 ```
 
 ### Install
 
-- Run ` cd nba-teams-stats `
+- Run ` cd CryptoNike `
 - Run ` npm install `
 
 ### Usage
@@ -127,8 +127,8 @@ To run tests, run the following command:
 
 👤 **ROBERT MIGOT**
 
-- GitHub: [@migo1](https://github.com/migo1)
-- LinkedIn: [Robert Migot](https://www.linkedin.com/in/robert-m-3b3b1116a/)
+- GitHub: [@olanikegloria](https://github.com/olanikegloria)
+- LinkedIn: [Olanike Olatunji](https://www.linkedin.com/in/olani/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +136,7 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add charts to display the statistics of each team
+- Add charts to display the statistics of each coin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
@@ -145,7 +145,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/migo1/nba-teams-stats/issues).
+Feel free to check the [issues page](https://github.com/olanikegloria/CryptoNike/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,6 +168,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](.licence) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
